@@ -1,1 +1,1 @@
-# basic-rest-api
+# API設計の基礎を学習
